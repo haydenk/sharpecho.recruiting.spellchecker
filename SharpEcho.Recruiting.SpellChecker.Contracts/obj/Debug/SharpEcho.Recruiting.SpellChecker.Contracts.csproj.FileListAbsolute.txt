@@ -1,0 +1,10 @@
+C:\Users\hking\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\bin\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.dll
+C:\Users\hking\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\bin\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.pdb
+C:\Users\hking\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\obj\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\hking\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\obj\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.dll
+C:\Users\hking\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\obj\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.pdb
+C:\Users\hking\Documents\Visual Studio 2013\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\bin\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.dll
+C:\Users\hking\Documents\Visual Studio 2013\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\bin\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.pdb
+C:\Users\hking\Documents\Visual Studio 2013\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\obj\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\hking\Documents\Visual Studio 2013\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\obj\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.dll
+C:\Users\hking\Documents\Visual Studio 2013\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\obj\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.pdb

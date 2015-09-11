@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Text.RegularExpressions;
 
 using SharpEcho.Recruiting.SpellChecker.Contracts;
 
@@ -15,11 +13,11 @@ namespace SharpEcho.Recruiting.SpellChecker.Core
     /// </summary>
     public class SpellChecker : ISpellChecker
     {
-        private ISpellChecker[] SpellCheckers;
+        private readonly ISpellChecker[] _spellCheckers;
 
         public SpellChecker(ISpellChecker[] spellCheckers)
         {
-            SpellCheckers = spellCheckers;
+            _spellCheckers = spellCheckers;
         }
 
         /// <summary>
@@ -30,14 +28,15 @@ namespace SharpEcho.Recruiting.SpellChecker.Core
         /// <returns>True if all spell checkers agree that a word is spelled correctly, false otherwise</returns>
         public bool Check(string word)
         {
-            foreach (var spellChecker in SpellCheckers)
-            {
-                if (!spellChecker.Check(word))
-                {
-                    return false;
-                }
-            }
-            return true;
+            return _spellCheckers.All(spellChecker => spellChecker.Check(word));
+        }
+
+        public static List<string> GetWordsFromSentence(string sentence)
+        {
+            return Regex
+                .Split(sentence, @"\b[\s,\.-:;]*")
+                .Where(x => !string.IsNullOrEmpty(x))
+                .ToList();
         }
     }
 }

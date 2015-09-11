@@ -1,0 +1,18 @@
+C:\Users\hking\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellCheckerConsole\bin\Debug\SharpEcho.Recruiting.SpellCheckerConsole.exe
+C:\Users\hking\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellCheckerConsole\bin\Debug\SharpEcho.Recruiting.SpellCheckerConsole.pdb
+C:\Users\hking\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellCheckerConsole\bin\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.dll
+C:\Users\hking\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellCheckerConsole\bin\Debug\SharpEcho.Recruiting.SpellChecker.Core.dll
+C:\Users\hking\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellCheckerConsole\bin\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.pdb
+C:\Users\hking\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellCheckerConsole\bin\Debug\SharpEcho.Recruiting.SpellChecker.Core.pdb
+C:\Users\hking\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellCheckerConsole\obj\Debug\SharpEcho.Recruiting.SpellCheckerConsole.csprojResolveAssemblyReference.cache
+C:\Users\hking\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellCheckerConsole\obj\Debug\SharpEcho.Recruiting.SpellCheckerConsole.exe
+C:\Users\hking\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellCheckerConsole\obj\Debug\SharpEcho.Recruiting.SpellCheckerConsole.pdb
+C:\Users\hking\Documents\Visual Studio 2013\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellCheckerConsole\obj\Debug\SharpEcho.Recruiting.SpellCheckerConsole.exe
+C:\Users\hking\Documents\Visual Studio 2013\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellCheckerConsole\obj\Debug\SharpEcho.Recruiting.SpellCheckerConsole.pdb
+C:\Users\hking\Documents\Visual Studio 2013\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellCheckerConsole\bin\Debug\SharpEcho.Recruiting.SpellCheckerConsole.exe
+C:\Users\hking\Documents\Visual Studio 2013\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellCheckerConsole\bin\Debug\SharpEcho.Recruiting.SpellCheckerConsole.pdb
+C:\Users\hking\Documents\Visual Studio 2013\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellCheckerConsole\bin\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.dll
+C:\Users\hking\Documents\Visual Studio 2013\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellCheckerConsole\bin\Debug\SharpEcho.Recruiting.SpellChecker.Core.dll
+C:\Users\hking\Documents\Visual Studio 2013\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellCheckerConsole\bin\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.pdb
+C:\Users\hking\Documents\Visual Studio 2013\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellCheckerConsole\bin\Debug\SharpEcho.Recruiting.SpellChecker.Core.pdb
+C:\Users\hking\Documents\Visual Studio 2013\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellCheckerConsole\obj\Debug\SharpEcho.Recruiting.SpellCheckerConsole.csprojResolveAssemblyReference.cache

@@ -1,4 +1,5 @@
-﻿using SharpEcho.Recruiting.SpellChecker.Contracts;
+﻿using System.Net;
+using SharpEcho.Recruiting.SpellChecker.Contracts;
 
 namespace SharpEcho.Recruiting.SpellChecker.Core
 {
@@ -6,8 +7,8 @@ namespace SharpEcho.Recruiting.SpellChecker.Core
     /// This is a dictionary based spell checker that uses dictionary.com to determine if
     /// a word is spelled correctly
     /// 
-    /// The URL to do this looks like this: http://dictionary.reference.com/browse/<word>
-    /// where <word> is the word to be checked
+    /// The URL to do this looks like this: http://dictionary.reference.com/browse/<word/>
+    /// where <word/> is the word to be checked
     /// 
     /// Example: http://dictionary.reference.com/browse/SharpEcho would lookup the word SharpEcho
     /// 
@@ -18,7 +19,14 @@ namespace SharpEcho.Recruiting.SpellChecker.Core
     {
         public bool Check(string word)
         {
-            throw new System.NotImplementedException();
+            WebRequest request = WebRequest.CreateHttp("http://dictionary.reference.com/browse/" + word);
+            WebResponse response = request.GetResponse();
+
+            bool foundWord = response.ResponseUri.AbsolutePath != "/misspelling";
+
+            response.Close();
+
+            return foundWord;
         }
     }
 }

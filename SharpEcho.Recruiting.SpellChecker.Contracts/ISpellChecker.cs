@@ -1,4 +1,6 @@
-﻿namespace SharpEcho.Recruiting.SpellChecker.Contracts
+﻿using System.Collections.Generic;
+
+namespace SharpEcho.Recruiting.SpellChecker.Contracts
 {
     /// <summary>
     /// The base interface which defines how spell checkers work

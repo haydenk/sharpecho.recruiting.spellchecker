@@ -45,6 +45,7 @@
     <Compile Include="DictionaryDotComSpellCheckerTests.cs" />
     <Compile Include="MnemonicSpellCheckerIBeforeETests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SpellCheckerTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SharpEcho.Recruiting.SpellChecker.Contracts\SharpEcho.Recruiting.SpellChecker.Contracts.csproj">

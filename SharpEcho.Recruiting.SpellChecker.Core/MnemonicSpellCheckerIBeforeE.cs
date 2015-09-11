@@ -1,4 +1,5 @@
-﻿using SharpEcho.Recruiting.SpellChecker.Contracts;
+﻿using System.Text.RegularExpressions;
+using SharpEcho.Recruiting.SpellChecker.Contracts;
 
 namespace SharpEcho.Recruiting.SpellChecker.Core
 {
@@ -20,7 +21,14 @@ namespace SharpEcho.Recruiting.SpellChecker.Core
         /// <returns>true when the word is spelled correctly, false otherwise</returns>
         public bool Check(string word)
         {
-            throw new System.NotImplementedException();
+            // If the word does not even contain the "ie" or "ei" pair
+            // we are going to assume it is true for this type of spell check
+            if (Regex.Matches(word, "ie|ei").Count == 0)
+            {
+                return true;
+            }
+
+            return Regex.Matches(word, @"ie|cei").Count > 0;
         }
     }
 }
